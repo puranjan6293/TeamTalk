@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264169646038",
+    "project_id": "teamtalk-c82a7",
+    "storage_bucket": "teamtalk-c82a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264169646038:android:a59adea729993d3f346677",
+        "android_client_info": {
+          "package_name": "com.example.teamtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264169646038-ri769im3v8e01tl37atpsd0q2cbk37l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamtalk",
+            "certificate_hash": "df36591537791bc5673a79dea0dc8e436c26ed41"
+          }
+        },
+        {
+          "client_id": "264169646038-nr77rpo6p5vuvjt5nmblcaeclf823s72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLrapHXB56IEsz3hlp6e7-Q178gB5X08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264169646038-nr77rpo6p5vuvjt5nmblcaeclf823s72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

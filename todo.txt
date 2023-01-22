@@ -1,0 +1,5 @@
+adding firebase to android
+to ios
+to web
+
+sha1 key: keytool -list -v -keystore C:\Users\malli\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
